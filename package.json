@@ -1,0 +1,11 @@
+{
+  "name": "faceless-studio-ai",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": ["apps/*", "services/*"],
+  "scripts": {
+    "dev": "echo 'Run web/api services via workspace-specific scripts'",
+    "lint": "echo 'Add ESLint configs per package'",
+    "typecheck": "echo 'Add tsconfig project refs'"
+  }
+}
